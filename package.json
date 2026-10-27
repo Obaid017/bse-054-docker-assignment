@@ -1,0 +1,13 @@
+{
+  "name": "study-planner",
+  "version": "1.0.0",
+  "description": "Simple study planner web app for CSC418 DevOps Lab Assignment 2",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "MIT"
+}
